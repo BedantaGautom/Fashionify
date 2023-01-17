@@ -1,6 +1,8 @@
-# final-project
+# Fashionify
 Final Project for Microsoft Future Ready Talent Intership 2022
 # Azure link : https://green-pond-04d543310.2.azurestaticapps.net
+
+# Project Link : https://bedantagautom.github.io/Fashionify/
 
 # Screenshots
 
@@ -8,7 +10,11 @@ Final Project for Microsoft Future Ready Talent Intership 2022
 
 
 
+
+
 ![Screenshot (121)](https://user-images.githubusercontent.com/85272308/212954838-988c7ae3-ef78-4d58-be63-4835f735ff92.png)
+
+
 
 
 
